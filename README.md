@@ -1,8 +1,11 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Muhammad Irfan Maulana
-👩🏻‍💻 front-end developer I study at SMKN 46 Jakarta<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+👩🏻‍💻 front-end developer<br/>
+💭 I study at SMKN 46 Jakarta<br/>
+📫 How to reach me muhammadirfanm.2006@gmail.com<br/>
+
+# Connect with me:
 
 
 # 💻 Tech Stack
