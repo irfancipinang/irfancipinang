@@ -1,7 +1,8 @@
-https://github.com/Dharungandhy28/Dharungandhy28
+[![MasterHead](https://github.com/Dharungandhy28/Dharungandhy28)
 <h1 align="center">Hai 👋, saya Muhammad Irfan Maulana</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari Indonesia</h3>
-https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a
+<img align="right" alt="coding" width="400" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfancipinang&label=Profile%20views&color=0e75b6&style=flat" alt="irfancipinang" /> </p>
 
