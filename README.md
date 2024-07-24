@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Irfan Maulana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfancipinang&label=Profile%20views&color=0e75b6&style=flat" alt="irfancipinang" /> </p>
 
